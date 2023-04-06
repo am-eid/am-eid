@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @am-eid
-- 👀 I’m interested in web developing && designing
-- 🌱 I’m currently learning web designing 
+- 👀 I’m interested in web developing && cybersecurity
+- 🌱 I’m currently learning web designing & bugbounty
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me fb.com/am.eid200
 <!---
